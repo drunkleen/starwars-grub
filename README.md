@@ -1,4 +1,4 @@
-# Minimal ROG theme for Grub/Grub2
+# Starwars theme for Grub/Grub2
 
 ## Preview
 
@@ -44,6 +44,3 @@ To open the help menu:
 
 Based on [vinceliuice's grub2-themes](https://github.com/vinceliuice/grub2-themes).
 
-Inspired from [thekarananand's ROG Grub theme](https://github.com/thekarananand/ROG_GRUB_Theme).
-
-Logo © ASUSTeK Computer Inc.
